@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jesus Tortolero</h1>
-<h3 align="center">a passionate Software Developer with over 2 years of hands-on experience in the world of Python development.</h3>
+<h3 align="center">a passionate Software Developer with over 3 years of hands-on experience in the world of Python development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jesustortolero&label=Profile%20views&color=0e75b6&style=flat" alt="jesustortolero" /> </p>
 
