@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, Django.**
 
-- 📄 Know about my experiences [Somelink](Somelink)
+<!-- - 📄 Know about my experiences [Somelink](Somelink) -->
 
 - ⚡ Fun fact **something**
 
