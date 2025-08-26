@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jesustortolero&label=Profile%20views&color=0e75b6&style=flat" alt="jesustortolero" /> </p>
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **C# and .NET**
 
-- 💬 Ask me about **Python, Django.**
+- 💬 Ask me about **Python, API, Software Design.**
 
 <!-- - 📄 Know about my experiences [Somelink](Somelink) -->
 
